@@ -2,7 +2,7 @@ package com.abc;
 
 import java.util.ArrayList;
 import java.util.List;
-//tests
+//test
 public class Account {
 
     public static final int CHECKING = 0;
